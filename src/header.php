@@ -17,7 +17,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<?php wp_head(); ?>
-		<link href="<?php bloginfo('template_directory'); ?>/css/styles.css" rel="stylesheet">
+		<link href="<?php bloginfo('template_directory'); ?>/style.css" rel="stylesheet">
 	</head>
 	
 <body>
