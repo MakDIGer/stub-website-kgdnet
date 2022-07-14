@@ -15,6 +15,8 @@
   	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="mask-icon" href="/favicon.svg" color="#000000">
+		<link rel="icon" type="image/ico" href="/favicon.ico">
 
 		<?php wp_head(); ?>
 		<link href="<?php bloginfo('template_directory'); ?>/style.css" rel="stylesheet">
